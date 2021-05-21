@@ -1,3 +1,3 @@
 testhelloworld
 
-Cmd => mvn package
+Commande:  mvn package
